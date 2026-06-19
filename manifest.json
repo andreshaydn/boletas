@@ -2,7 +2,7 @@
   "name": "Boleta Honorarios 2026",
   "short_name": "Boleta 2026",
   "description": "Calculadora de retención de honorarios SII Chile 2026",
-  "start_url": "/Boletas/",
+  "start_url": "/boletas/",
   "display": "standalone",
   "background_color": "#0B2A1A",
   "theme_color": "#0B2A1A",
